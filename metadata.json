@@ -1,0 +1,15 @@
+{
+  "name": "aolabs-netdata",
+  "version": "0.0.1",
+  "author": "aolabs",
+  "summary": "Install and configure netdata instance.",
+  "license": "MIT",
+  "source": "https://github.com/aolabs/puppet-netdata.git",
+  "project_page": "https://github.com/aolabs/puppet-netdata",
+  "issues_url": "https://github.com/aolabs/puppet-netdata/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
